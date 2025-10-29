@@ -94,6 +94,10 @@ python3 -m west flash -d build --verify
 - Board: 802005300
 
 
+# EMbassy switch
+
+Followed https://github.com/embassy-rs/embassy/tree/main/examples/nrf9160
+
 # Resources
 
 [1] Testing: https://ferrous-systems.com/blog/test-embedded-app/
